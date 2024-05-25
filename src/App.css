@@ -1,0 +1,12 @@
+.center{
+  text-align: center;
+  font-size: 2rem;
+}
+*{
+  color: #f11d1d;
+  background-color: rgb(189, 189, 144);
+  font-weight: bold;
+  text-align: justify;
+  margin: 25px 50px;
+  font-size: 1.2rem;
+}
